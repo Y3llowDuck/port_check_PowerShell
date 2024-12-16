@@ -28,19 +28,6 @@ A PowerShell script to test outbound TCP connectivity from your Windows machine.
 
 Here’s an example of what running the script looks like:
 
-```plaintext
-Enter the target server (default: portquiz.net): portquiz.net
-How many ports would you like to check? 3
-Enter port number 1: 80
-Enter port number 2: 443
-Enter port number 3: 8080
-
-Checking outbound connectivity to portquiz.net...
-Outbound connection successful on port 80
-Outbound connection successful on port 443
-Outbound connection blocked on port 8080
-All ports checked!
-
-
+![Script Output Example](https://github.com/Y3llowDuck/port_check_PowerShell/blob/main/Screenshot%202024-12-16%20at%201.16.51%20PM.png?raw=true)
 
 

@@ -26,7 +26,7 @@ A PowerShell script to test outbound TCP connectivity from your Windows machine.
    git clone https://github.com/Y3llowDuck/port_check_PowerShell.git
    ## Once cloned, we go to the location where the PowerShell script resides.
    ## Make sure you are able to execute PowerShell scripts.
-   ## powershell -ExecutionPolicy Bypass -File .\check-outbound-ports.ps1
+   powershell -ExecutionPolicy Bypass -File .\check-outbound-ports.ps1
    ## Then execute :
    .\check-outbound-ports.ps1
 

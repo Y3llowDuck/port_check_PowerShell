@@ -26,3 +26,4 @@ A PowerShell script to test outbound TCP connectivity from your Windows machine.
    cd check-outbound-ports
 
 
+

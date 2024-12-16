@@ -22,7 +22,7 @@ A PowerShell script to test outbound TCP connectivity from your Windows machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/check-outbound-ports.git
+   git clone https://github.com/Y3llowDuck/port_check_PowerShell.git
    .\check-outbound-ports.ps1
    ## Example Output
 
